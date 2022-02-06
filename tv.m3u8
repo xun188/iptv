@@ -20,7 +20,7 @@ http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1HD1
 http://112.25.63.197:8080/gitv_live/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1HD2
-http://39.134.39.5/TVOD/88888888/224/3221226247/index.m3u8
+http://39.135.34.150:8080/000000001000/1000000001000021973/1.m3u8?xtkg
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1HD3
 http://58.20.64.92:9999/tsfile/live/0001_1.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1HD4
@@ -30,7 +30,7 @@ http://183.242.49.77/live/CCTV1x综合/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1HD6
 http://ott.js.chinamobile.com/PLTV/3/224/3221227675/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2HD1
-http://112.25.63.197:8080/gitv_live/G_CCTV-2-CQ/G_CCTV-2-CQ.m3u8?p=GITV&area=JS_CMCC_CP
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226655/40417429.smil
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2HD2
 http://117.136.154.98/PLTV/88888888/224/3221225502/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2HD3
@@ -52,7 +52,7 @@ http://112.25.63.197:8080/gitv_live/G_CCTV-4-CQ/G_CCTV-4-CQ.m3u8?p=GITV&area=JS_
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4HD4
 http://39.134.116.30:8080/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5HD1
-http://112.25.63.197:8080/gitv_live/G_CCTV-5-MD/G_CCTV-5-MD.m3u8?p=GITV&area=JS_CMCC_CP
+http://39.135.34.150:8080/000000001000/1000000001000004794/1.m3u8?xtkg
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5HD2
 http://39.134.39.5/TVOD/88888888/224/3221226146/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5HD3
@@ -60,7 +60,7 @@ http://58.20.64.92:9999/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5HD4
 http://183.242.49.77/live/CCTV5x体育/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6HD1
-http://112.25.63.197:8080/gitv_live/G_CCTV-6-MD/G_CCTV-6-MD.m3u8?p=GITV&area=JS_CMCC_CP
+http://39.135.34.150:8080/000000001000/1000000001000016466/1.m3u8?xtkg
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6HD2
 http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227664/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6HD3
@@ -78,7 +78,7 @@ http://39.134.39.5/TVOD/88888888/224/3221226150/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8HD3
 http://39.135.138.59:18890/PLTV/88888910/224/3221225635/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9HD1
-http://112.25.63.197:8080/gitv_live/G_CCTV-9-HD-265-8M/G_CCTV-9-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
+http://39.135.34.150:8080/000000001000/1000000001000014583/1.m3u8?xtkg
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9HD2
 http://39.134.39.39/TVOD/88888888/224/3221226259/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9HD3
@@ -102,9 +102,9 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13新闻1
 http://117.136.154.98/PLTV/88888888/224/3221225510/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13新闻2
-http://112.25.63.197:8080/gitv_live/G_CCTV-13-CQ/G_CCTV-13-CQ.m3u8?p=GITV&area=JS_CMCC_CP
+http://39.135.34.150:8080/000000001000/1000000002000021303/1.m3u8?xtkg
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13新闻3
-http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8 
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13新闻4
 http://183.242.49.77/live/CCTV13x新闻/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13新闻5
