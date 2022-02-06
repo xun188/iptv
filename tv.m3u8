@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,奥运频道
 http://223.110.235.9/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
+#EXTINF:-1 ,奥运频道8K
+http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8
 #EXTINF:-1 group-title="港台新" tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/fenghuangzixun.png",凤凰资讯台HD-1
 http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 #EXTINF:-1 group-title="港台新" tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/fenghuangzixun.png",凤凰资讯台HD-1
