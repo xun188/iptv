@@ -12,7 +12,7 @@ http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
 #EXTINF:-1 ,巴中综合频道
 http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1HD1
-http://112.25.63.197:8080/gitv_live/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8?p=GITV&area=JS_CMCC_CP
+http://183.214.164.90/hlsliveali-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1HD2
 http://39.134.39.5/TVOD/88888888/224/3221226247/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1HD3
@@ -72,7 +72,7 @@ http://39.134.39.5/TVOD/88888888/224/3221226150/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8HD3
 http://39.135.138.59:18890/PLTV/88888910/224/3221225635/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9HD1
-http://112.25.63.197:8080/gitv_live/G_CCTV-9-HD-265-8M/G_CCTV-9-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
+http://183.214.164.90/hlsliveali-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9HD2
 http://39.134.39.39/TVOD/88888888/224/3221226259/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9HD3
@@ -94,7 +94,7 @@ http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV-12-HD2
 http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13新闻1
-http://117.136.154.98/PLTV/88888888/224/3221225510/index.m3u8
+http://183.214.164.90/hlsliveali-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13新闻2
 http://112.25.63.197:8080/gitv_live/G_CCTV-13-CQ/G_CCTV-13-CQ.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13新闻3
