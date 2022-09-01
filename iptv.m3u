@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="港台新" tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/fenghuangzixun.png",凤凰资讯台HD-1
-http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+#EXTINF:-1 ,电影频道
+https://8.219.146.225/download/?fid=y5gWC*y9HeV5Drkj6R1efbMsUOaZdXvnAwAAAOR-egTUxca4HoS1auE*XEU7tEEQ&mid=666&threshold=251&tid=EC0007A96EBC8FD027433B8D2100527A&srcid=0&verno=2&pk=1101&e=1662119899&g=E47F7A04D4C5C6B81E84B56AE13E5C453BB44110&i=CB98160BECBD1DE5790EB923E91D5E7DB32C50E6&ui=YtEUAh2CMJ-O3mOK&t=0&hy=1&ms=10400000&th=10400000&pt=0&f=16768529817&alt=0&pks=1101&rts=&userid=YtEUAh2CMJ-O3mOK&clientid=YNxT9w7GMdWvEOKa&projectid=2wks56c31dc80sxm5p9&vip=PVIP&clientver=&spr=vip&fileid=VNAsuDyO_DHTNlWSYHwdCRhZo1&fext=mkv&at=F7346CE536AF2041C82FF432583C0F14#EXTINF:-1 group-title="港台新" tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/fenghuangzixun.png",凤凰资讯台HD-1
+
 #EXTINF:-1 group-title="港台新" tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/fenghuangzixun.png",凤凰资讯台HD-1
 http://112.25.63.197:8080/gitv_live/HD-2500k-1080P-fhzixun/HD-2500k-1080P-fhzixun.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1 group-title="港台新" tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/fenghuangzixun.png",凤凰资讯台HD-4
