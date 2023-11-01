@@ -4,8 +4,7 @@ http://mgws.live.miguvideo.com:8088/migu/sports/olympic055/51/20210702/01.m3u8?m
 #EXTINF:-1 ,NBA2
 https://63038f978e4c401c0584f8b384228634.v.smtcdns.net/txycdn.video.qq.com/1373408903.m3u8?time=1683857140&from=player&cdn=tcloud&sdtfrom=v402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgICSOkfNZolTgnDSC7wjGyA0mHT4jLRRTwRRoXBM08cLkEOtcYRnJo98TNX_l9xiTGoEBQG7WhlnFc31EUroR0Tu7FflkBDc-Om6OxOAi1tFCMTsXlx4sZu8ThLDzZDtOI1RNik_6gJF-iZjKFVlraRkl9TzLol_odNCbNqyl2csyUSo9_ADFMajJ73CApxxy1EFNHj24X8DFcMCcxN_ZwCDTPc3wbEwtdI5QJkUsO992lzjJ_PYKyTnAT4g-6TDCwKOKpo-tAEC_nFUOHWC0RdVhdunTCaOKHG-EIHRFgVSewOiUEVHvsM7ILmrt4BzmUhKPVMKKFF4HxsKH9ozL0Syj64yTwSMC65D7TA8po2xcAeFQN6ykX2i8IrhD4lP9UwED57Jw1UQ0cEdhVbFFoYYMQKWV3NHz7E8ewiWMvSTprI77qEwqPztJi13xCjXZO_-xhkZ1lFHMAZrYF4fLBg20IjmSvdQW13yVFZ2IsQzfzq0b&drmtype=0
 #EXTINF:-1 ,NBA3
-
-http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=3
+#http://mgbs.live.miguvideo.com:8088/migu/sports/20220127/pcstation36/55/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-1
 http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
