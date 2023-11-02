@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,NBA
 #http://mgbs.live.miguvideo.com:8088/migu/sports/20220127/pcstation36/55/01.m3u8
-#EXTINF:-1 ,马刺 VS 太阳
-
+#EXTINF:-1 ,CCTV-13
+http://mgws.live.miguvideo.com/migu/kailu/cctv13/57/20220913/01.m3u8?msisdn=018fbc0b981dde6ea366a879542a5e65&mdspid=&spid=699004&netType=4&sid=2202208864&pid=2028597139&timestamp=20231102124306&Channel_ID=0116_2604010750-99000-200300020100001&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=1.193.36.116&SecurityKey=20231102124306&promotionId=DE6B287D-FCB0-4FC1-ABF3-2FD175EC151F&mvid=2202208864&mcid=500020&playurlVersion=ZQ-A1-6.9.3-RELEASE&userid=1055919958&jmhm=018fbc0b981dde6ea366a879542a5e65&videocodec=h264&bean=mgspios&mtv_session=4725b3575eb7a73ac490473f308f658f&jid=43ccd5b3d0c0a4058c8f5d94f8e22ff8&is_advertise=0&sjid=subsession_1698900200148&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ac0a17e52475501ff6a925ef0dad14df
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-1
 http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-2
