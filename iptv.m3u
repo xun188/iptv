@@ -13,7 +13,8 @@ http://txcdn.zb.qq.com/1376260024.m3u8?time=1700525528&from=player&cdn=tcloud&sd
 
 #EXTINF:-1 ,group-title="NBA直播",世界杯
 http://mgsp-hs.live.miguvideo.com/migu/sports/50zhenyhvivid16/902/20221109/01.m3u8?msisdn=018fbc0b981dde6ea366a879542a5e65&mdspid=&spid=800033&netType=4&sid=7510193503&pid=2028597139&timestamp=20231121200506&Channel_ID=0116_2504090960-99000-200300020100001&ProgramID=886934755&ParentNodeID=-99&assertID=7510193503&client_ip=123.149.1.169&SecurityKey=20231121200506&promotionId=E8E94034-9033-459D-B3EC-DA8E87300B4A&mvid=7510096384&mcid=500020&mpid=120000489316&playurlVersion=WX-A1-6.11.1-RELEASE&userid=1055919958&jmhm=018fbc0b981dde6ea366a879542a5e65&videocodec=h265&mgdbId=120000489316&bean=mgspios&jid=28ab2430b312a572cf9e38ac209b2eca&is_advertise=0&sjid=subsession_1700568306085&mtv_session=3d61972abf46cfc8a9d1d319975bf921&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a9324a452614fae6e14f94b6b77e6b2b
-
+#EXTINF:-1 ,group-title="NBA直播",世界1
+http://mgsp-ali.live.miguvideo.com/migu/sports/50zhenyhvivid16/51/20221109/01.m3u8?msisdn=018fbc0b981dde6ea366a879542a5e65&mdspid=&spid=800033&netType=4&sid=7510193503&pid=2028597139&timestamp=20231121212859&Channel_ID=0116_2604010750-99000-200300020100001&ProgramID=886934755&ParentNodeID=-99&assertID=7510193503&client_ip=123.149.1.169&SecurityKey=20231121212859&promotionId=670272F3-F3D4-4220-8E46-5E642447F149&mvid=7510096384&mcid=500020&mpid=120000489316&playurlVersion=WX-A1-6.11.1-RELEASE&userid=1055919958&jmhm=018fbc0b981dde6ea366a879542a5e65&videocodec=h264&mgdbId=120000489316&bean=mgspios&encrypt=50563dd034434f6a8e99209697a37288&HlsSubType=1&nphaid=0&HlsProfileId=1&mtv_session=f8068d05c0afb73eccf56dea7cb5c398
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-1
 http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
