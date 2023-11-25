@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 ,group-title="NBA直播",测试
+http://txycdn.video.qq.com/1376243924.m3u8?
+
 #EXTINF:-1 ,group-title="NBA直播",雄鹿VS奇才
 http://txycdn.video.qq.com/1376243924.m3u8?time=1700877264&from=player&cdn=tcloud&sdtfrom=v1000402432&platform=10403&butype=2&HLSP2P=1&vkey=nvkey_AQQgIGHzkqWvuzmwq6HMafZw19GMYw-0dXHKy9nQyzHs1tPSEDmNwN-sWoVS0nQFK1QgHHIBgJZaLBo0qTvimIIXLe32wlEjgV8DoQNZNIP13etOPdY6gJr8ndLIXpQRYnPsOc8LIFvo2Ot-AzJsyCrQSoJokaxP4DpbMstyXpw1yOIZvGY4wagQgGMzKn8jO3E6m7XgGezpHE6H4ONa0d9OKNn7kH8RidRpaKNo8bBq17hMKQpbSsJDSDODIjeB-7E_hmQeqIGiot1xrdg3vo7U3VQNPAjfATmogU0ZRWWGdoZvAG8xNWJ6YbGOELc5ZTz5RHbi6NFJlWG760yY888Nwgw_Rj0H6XoZEEcalYJpd1vtfiBV6jbFvaY6sH3b5g0UpB40Z2xDKgUHBcvBvdudQ50zNP79F1iYwIqnGxFtePAptW-m2tv2yz5iavehDv-ea4jdQdptahiBkUC70tUDROSB0PXlvjvmkN0XWSKdHqHB6VSlWoFD6lkhjglK955QGfIawAflGKeTNORejQa5IL2VtbPjSOnp-f2NRgA5dw1JZb_DUr874lsadFcDEvAx3sLB2w==&drmtype=0
 
