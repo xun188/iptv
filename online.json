@@ -6,7 +6,7 @@
     },
      {
       "name": "Webdav",
-      "server": "http://192.168.1.1:5244/",
+      "server": "http://192.168.1.1:5244/dav",
       "user": "admin",
       "pass": "admin"
     },
