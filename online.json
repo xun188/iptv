@@ -4,12 +4,6 @@
       "name": "M3U",
       "url": "https://gitee.com/conolo/iptv/raw/main/iptv.m3u"
     },
-     {
-      "name": "Webdav",
-      "server": "http://192.168.1.1:5244/dav",
-      "user": "admin",
-      "pass": "admin"
-    },
     {
       "name": "TXT",
       "url": "https://github.com/live.txt",
