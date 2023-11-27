@@ -1,16 +1,10 @@
 {
-  "drives": [
-    {
-      "name": "七米藍",
-      "server": "https://al.chirmyram.com/dav",
-      "user": "alist",
-      "pass": "alist"
-    },
-    {
-      "name": "影視庫",
-      "server": "https://esir.eu.org/dav",
-      "user": "alist",
-      "pass": "alist"
-    }
-  ]
+      "key": "WebDAV",
+      "name": "WebDAV",
+      "type": 3,
+      "api": "csp_WebDAV",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://gitee.com/conolo/iptv/raw/main/webdav.json"
 }
