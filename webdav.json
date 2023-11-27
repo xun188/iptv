@@ -1,10 +1,10 @@
 {
   "drives": [
     {
-      "name": "七米藍",
-      "server": "https://al.chirmyram.com/dav",
-      "user": "alist",
-      "pass": "alist"
+      "name": "Webdav",
+      "server": "http://192.168.1.1:5244/dav",
+      "user": "admin",
+      "pass": "admin"
     },
     {
       "name": "影視庫",
