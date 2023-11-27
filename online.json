@@ -2,7 +2,7 @@
   "lives": [
     {
       "name": "M3U",
-      "url": "https://raw.githubusercontent.com/xun188/iptv/main/iptv.m3u"
+      "url": "https://gitee.com/conolo/iptv/raw/main/iptv.m3u"
     },
     {
       "name": "TXT",
