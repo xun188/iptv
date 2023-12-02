@@ -1,7 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 ,group-title="NBA直播",鹈鹕VS马刺
-http://27.185.227.207/txycdn.video.qq.com/1376372524.m3u8?time=1701483564&from=player&cdn=tcloud&sdtfrom=v1000402432&platform=10403&butype=2&HLSP2P=1&vkey=nvkey_AQQgIBOjQ3NBc4Ex5cZ2BLEYOXvCM_h57wmmPEEyn_NnxiCVEO0KMHE8LuHm1V_BnvpQRaoBgOyIl7uofRIiqyVKrT2Pri3nEFZ-_ryGox0-5jnTHRaJwgtyW4zVgF8nV4ZERq7ktwOQ5f6rE2NF4Difh53O4fVCFUZKXBz9nBIAssJOWNlZPO6gSXJyGxz4lxDH-8zuRRBrEj6aOrLbgkBePYX-r1PMe4Tuapicy9t1TlJmVJZB6IpYwrEwxn3-v5xChS9FJHtysn0eat2wW6mmT8m0FUgnQgQIbp8hKhmKzlKjYGwUcROKmGbUQnB8MYDpzjxLB8NEMa6CdyT4Xg6_pCo7Rmf_PAISRAmO3jVJJHtVJjJeruE9-uw6oUaAkyDr8r9fLgB_xPRu4xqLENJcrma_WGI1GQZYdoTn0NsFTYl-I_jDeRZ7qyDrA9kawlRr8n5l4753bw8jINxuBv_Ho_ojCNUKSfDiNKv6YIAonBx9WaZZuto7S2P4H3YW5FK_GzzSgcbG0ytZ4fKlAdlQ8_UiZbMOhcC30BjedRzcjq8ruvXAkLJ-kMASBTUvTTlR9HJTJQ==&drmtype=0&cost=low&cdn_strategy=0
+#EXTINF:-1 ,group-title="NBA直播",CCTV-1
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8,http://183.196.25.171:808/hls/1/index.m3u8,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
+
 
 #EXTINF:-1 ,group-title="NBA直播",独行侠VS快船
 https://txcdn.zb.qq.com/1761375224.m3u8?time=1701476711&from=player&cdn=tcloud&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIcmpn3HLYZPAC4bTxRAzA5Atu8m8e4Q1fjJbTESZjcR48XlxFMs0UviNXjXgIfpqgMKuAMtZxjUu2HZVU4hVfjxcDsUMRG7EV1AJ1YiYd9Xx2U1dhvRQVuZxve2aL2lhGZPpMGlUM0Ng6Il10WcnHhctVd9Udo3sGzdbZRjEKEQCiqkAwyHGeUHZ83aPeOf3rwzQHwjk4SmTlu0y43iCq6N7DhDc0t5rYy19CU3NHgOLkZ6lNowyaHysuhtyFez0aqNxYxCtLL7qBwXDLIXTzVCvqce2XtMvBuPlZKzCjAFc1KBvFS6RjXKNZnPoudnDhpTSf25MuLxS0Z0HWAOVgFZpWFxS7ywB7v6Q2ml8CESxwlVIMizeFR0Uj8hrEli5mjbpAYtb3eu5WYQWAaZQ9rhPfFBQEczqNehSRFOqnIUTwd4XPQ3DGeP1poloHDGofepGkOsWHcPHhnCMRJR79G9plDN9jhyC==&drmtype=0
