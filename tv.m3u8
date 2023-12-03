@@ -3,5 +3,6 @@
 央视频道,#genre#
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-CCTV1,http://183.196.25.171:808/hls/1/index.m3u8
+CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8 
+CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8 
 
