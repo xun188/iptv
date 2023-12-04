@@ -1,12 +1,33 @@
 #EXTM3U
 
 央视频道,#genre#
+
 CCTV1,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
 CCTV1,https://zb.pzhgd.com:444/live/cctv1.m3u8
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8 
 CCTV1,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
 CCTV1,http://play.kankanlive.com/live/1661761962676984.m3u8
 CCTV1,http://222.81.86.42:8060/hls/ch3/ch3.m3u8
+
+CCTV1,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
+CCTV2,https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
+CCTV3,https://live.goodiptv.club/api/bestv.php?id=cctv3HD
+CCTV4,https://live.goodiptv.club/api/bestv.php?id=cctv4HD
+CCTV5,https://live.goodiptv.club/api/bestv.php?id=cctv5HD
+CCTV5+,https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
+CCTV6,https://live.goodiptv.club/api/bestv.php?id=cctv6HD
+CCTV7,https://live.goodiptv.club/api/bestv.php?id=cctv7HD
+CCTV8,https://live.goodiptv.club/api/bestv.php?id=cctv8HD
+CCTV9,https://live.goodiptv.club/api/bestv.php?id=cctv9hHD
+CCTV10,https://live.goodiptv.club/api/bestv.php?id=cctv10HD
+CCTV11,https://live.goodiptv.club/api/bestv.php?id=cctv11HD
+CCTV12,https://live.goodiptv.club/api/bestv.php?id=cctv12HD
+CCTV13,https://live.goodiptv.club/api/cqyx.php?id=CCTVNewsHD
+CCTV14,https://live.goodiptv.club/api/cqyx.php?id=cctvseHD
+CCTV15,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
+CCTV16,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
+CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
+
 CCTV2,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
 CCTV3,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
 CCTV4,https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
@@ -26,4 +47,4 @@ CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+
