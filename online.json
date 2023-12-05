@@ -6,7 +6,7 @@
     },
     {
       "name": "TXT",
-      "url": "https://raw.githubusercontent.com/kozalak-robot/iptv/master/daily.txt",
+      "url": "https://raw.githubusercontent.com/kozalak-robot/iptv/master/daily.m3u8",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
