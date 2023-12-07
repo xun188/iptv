@@ -1,9 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 ,group-title="NBA直播",湖人VS太阳
-http://txcdn.zb.qq.com/1761457324.m3u8?time=1701833380&from=player&cdn=tcloud&sdtfrom=v1000402432&platform=10403&butype=2&HLSP2P=1&vkey=nvkey_AQQgIF98cTXkCpIPpq68YWSWeUhxvyyiddloX7E5p6R6hI7_EHN3tcEPba07hslJwkB-95kBgA10jqv8dqmPzXkzNNnk-e1PNYfuvgVuxaktdYQcAgRl6-s3qcTdrTFcEmfkeQIgunBHm0hewIjwhin7iMP-aWfPTFHnCyTerSVxQ8JXTV0kUNThMBA9Lmcp6In5EA_OReeSMglYff5qg9f1Gh-JTN1m7Ibulvi3rOPTRbqo2eWZQBPvGcGLFk2B_RxkNEk3SJ2I48RTlXmrnb3yRSSylewZgIMIuA2kJ63DtO8D1npUjxqizBgiMNADZmgnsw1c9GZeLw8aIr80wEsss4hor4grEjDwaKawRXwEHDuTZYHSnmMsZdRMeJol6I_wOjTayslXwyBUoCwsJo0_or1UAKdNXrbtZZe1M44evw_REYT2z8tfdlISjQ-azcXx9c60Hrtbq8wTGxcQYd4x-KpKQdblP2GdE028X8ENc6mbjEV7RA1eHPUWO83OoUID4Bqzh307LuF19F9j0IJ41L8u1IARDUuH-PhvsfmVZUhEBlbnbqeXj3ZWjN0P7NupszqOLQ==&drmtype=0&cost=low&cdn_strategy=0
+#EXTINF:-1 ,group-title="NBA直播",勇士VS开拓者
+http://27.185.227.115/txycdn.video.qq.com/1376455824.m3u8?time=1701923646&from=player&cdn=tcloud&sdtfrom=v1000402132&platform=10103&butype=2&HLSP2P=1&vkey=nvkey_AQQgIMdWg4m2W9NG1OuLjpKG5apBg1P8iSSd7LiVtIF7lOtUENvPCjehkoxCct5u4iulz78BgHtklrPI0cNdYa5ycDBMeCeY38JkAhm5Tu3GjRY83oq6x5Fty4APIEHQqcDJ_P69HOWiUFdPUmgzJPAbjnTA79FORwDK7NmhRroY0WAe777rNJ_1VjaXJJw3swcSIS1wkrZA9EzwFZg5aI68MJMWBKGFuDqKotdvsBUP1yxw__HUyUBQR64irCSEKzc-A0k5LIFnZhzfqV9Y-xtMrRsMjjQdV4htD58ABLkvWm1hJClQRiVfiF848CutOEovJXVGyiTva4YmRxHer8DlRT15r5tNFsh9G2XpDlVNW8Hk4o1JZ1GLMrGSKA0NEhgnFEVulO9vFwJoJcOHs-TMNp0NiheEZp9fplZSqAKa7r3OfrOp7RTgn43y7BNZZ2dbsMlfjzCHtGwevaTHkX9Ze5exJXulgi1ZlBFnMW9Y4012-0zHGqjheo9Jh53fkeBd3O2sj4GEogeS0v_lj_yC8FAUeAmOa9P86cgh3vka42EzCkiXNzcs1HYYBTNbg3ropmaZgQ==&drmtype=0&cost=low&cdn_strategy=0
 
+#EXTINF:-1 ,group-title="NBA直播",勇士VS开拓者1
+https://bp-live03.bestv.cn/live/bestvyingyu_enhance.m3u8?auth_key=1701968421-d82ac89c3ac44d8cbfd9bc6752c4dd3e-0-263e472289eb91e84e46ed5cc0ec5544
 
+#EXTINF:-1 ,group-title="NBA直播",勇士VS开拓者2
+https://bp-livenba.bestv.cn/live/bestvnbaxjyjs_enhance265-audio.m3u8?auth_key=1701968422-f750930bba3542d5b2d2e148e03e5ed5-0-c231aff0a0b73b6ac9b01fa7f2aa16b6
+#EXTINF:-1 ,group-title="NBA直播",勇士VS开拓者3
+https://pull-gaia-bac.soucan.so/live/dps-58610740-saturn-wsu/playlist.m3u8?wsSecret=ae3edd89e183acff01648db89daf3995&wsABSTime=65717bbc
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-1
 http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
