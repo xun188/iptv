@@ -1,10 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 ,group-title="NBA直播",DOTA2
-http://al.flv.huya.com/src/1061583819-1061583819-4559467784567783424-2123291094-10057-A-0-1.flv?wsSecret=e8bab989c4cb4d70e8677754c98ae776&wsTime=663e5580&seqid=9245823568060&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=7530484015578&uuid=1254708982&t=102&sv=2401310322
-
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-1
 http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-2
