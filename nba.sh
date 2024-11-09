@@ -31,4 +31,5 @@ rm -rf QEuKOD
 git add -A
 git commit -m 'update'
 git push origin main --force
+sh /mnt/sda/gitee/migu.sh
 #wget https://newtv.fun/cifFTe -O /mnt/sda/cifFTe.m3u
