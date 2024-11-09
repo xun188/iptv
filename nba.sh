@@ -32,11 +32,3 @@ git add -A
 git commit -m 'update'
 git push origin main --force
 #wget https://newtv.fun/cifFTe -O /mnt/sda/cifFTe.m3u
-cd /mnt/sda/gitee/
-curl -O "https://livednow.org/migu/tv?id=1055919958&token=nlpsB0CBD7432DC721C01A0E"
-cp tv tv.m3u8
-cp tv iptv.m3u
-rm -rf tv
-git add -A
-git commit -m 'update'
-git push origin main --force
