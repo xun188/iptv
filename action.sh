@@ -1,3 +1,3 @@
 #for activate my rule
-#sh /usr/share/wifi/get.sh
+sh /usr/share/wifi/get.sh
 
