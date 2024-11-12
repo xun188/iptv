@@ -8,7 +8,7 @@ FIND_STR="livednow"
 # 判断匹配函数，匹配函数不为0，则包含给定字符
 if [ `grep -c "$FIND_STR" $FIND_FILE` -ne '0' ];then
     cp QEuKOD /mnt/sda/iptv/all.m3u
-    sed -n '/NBA常规赛/,+1p' QEuKOD  >> tmp.txt
+    sed -n '/小组赛/,+1p' QEuKOD  >> tmp.txt
     sed -i -e '/英文原声/{n;d}' tmp.txt
     sed -i '/英文原声/d' tmp.txt
     sed -i -e '/重播/{n;d}' tmp.txt
@@ -27,8 +27,8 @@ if [ `grep -c "$FIND_STR" $FIND_FILE` -ne '0' ];then
     fi
     cp nba.m3u /mnt/sda/gitee/n.m3u
     cp all.m3u /mnt/sda/gitee/all.m3u
-    sed -i 's/NBA常规赛/常规赛/g' /mnt/sda/gitee/n.m3u
-    sed -i 's/NBA常规赛/常规赛/g' /mnt/sda/gitee/all.m3u
+#    sed -i 's/NBA常规赛/常规赛/g' /mnt/sda/gitee/n.m3u
+#    sed -i 's/NBA常规赛/常规赛/g' /mnt/sda/gitee/all.m3u
 
 fi
 rm -rf tmp.txt
