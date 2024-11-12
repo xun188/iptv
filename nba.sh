@@ -27,8 +27,8 @@ if [ `grep -c "$FIND_STR" $FIND_FILE` -ne '0' ];then
     fi
     cp nba.m3u /mnt/sda/gitee/n.m3u
     cp all.m3u /mnt/sda/gitee/all.m3u
-#    sed -i 's/NBA常规赛/常规赛/g' /mnt/sda/gitee/n.m3u
-#    sed -i 's/NBA常规赛/常规赛/g' /mnt/sda/gitee/all.m3u
+    sed -i 's/NBA杯小组赛/小组赛/g' /mnt/sda/gitee/n.m3u
+    sed -i 's/NBA杯小组赛/小组赛/g' /mnt/sda/gitee/all.m3u
 
 fi
 rm -rf tmp.txt
