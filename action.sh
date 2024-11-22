@@ -10,3 +10,4 @@ git commit -m 'update'
 git push origin main --force
 /etc/init.d/homeproxy stop
 /etc/init.d/alist start
+cd /mnt/sda/iptv/
