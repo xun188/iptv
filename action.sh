@@ -1,2 +1,3 @@
 #for activate my rule
-#sh /usr/share/wifi/get.sh
+cp /etc/config/homeproxy /mnt/sda/gitee/
+sh /usr/share/wifi/get.sh
