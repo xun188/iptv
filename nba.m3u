@@ -1,15 +1,3 @@
-#EXTINF:-1,2025-03-10 07:00:00_NBA常规赛_鹈鹕 vs 灰熊_刘乘源
-https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp_3z1s48r6yrqouo7xBYLfc/m3u8
-#EXTINF:-1,2025-03-10 07:30:00_NBA常规赛_76人 vs 爵士_寇逸豪
-https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppx8H9ilYhGuEooivEf99dug/m3u8
-#EXTINF:-1,2025-03-10 08:00:00_NBA常规赛_雄鹿 vs 骑士_彭磊 李克 婧雯
-https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp43K-IGeGXTfnK74_kKVej4/m3u8
-#EXTINF:-1,2025-03-10 08:00:00_NBA常规赛_森林狼 vs 马刺_王子星
-https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp7IKIYEAxjw2EEQhoHkp2fE/m3u8
-#EXTINF:-1,2025-03-10 09:00:00_NBA常规赛_开拓者 vs 活塞_李雪儿
-https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppyPPSrvdkS7w_GnCCHnDryY/m3u8
-#EXTINF:-1,2025-03-10 09:30:00_NBA常规赛_快船 vs 国王_王嘉琦 沈知渝 辰辰
-https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp4Y7mpAh_soajMQ_c3uCEWs/m3u8
 #EXTINF:-1,2025-03-11 07:30:00_NBA常规赛_老鹰 vs 76人_李雪儿
 https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp8MAwyY4Ukst8nRrV-OhLpU/m3u8
 #EXTINF:-1,2025-03-11 07:30:00_NBA常规赛_凯尔特人 vs 爵士_石楷文
@@ -34,238 +22,246 @@ https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppyLiMrL9YlL6EKQ0yzbyYCI/m3u8
 https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp3EaPf8pmdQTrYc8lmrhSa4/m3u8
 #EXTINF:-1,2025-03-11 10:30:00_NBA常规赛_国王 vs 尼克斯_刘乘源 吴谦
 https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp_oLC1T-U396wTGtBoQ01I0/m3u8
+#EXTINF:-1,2025-03-12 07:00:00_NBA常规赛_骑士 vs 篮网_丁楠
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp_go6-sLYVqZJlzelgNIUeg/m3u8
+#EXTINF:-1,2025-03-12 07:00:00_NBA常规赛_活塞 vs 奇才_金浩霆
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp_uXxtJgTWYhFywj747Jgbs/m3u8
+#EXTINF:-1,2025-03-12 07:30:00_NBA常规赛_步行者 vs 雄鹿_柯凡 曾令旭 泱泱
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp34ovDk-VG6-nB-2CCksOtU/m3u8
+#EXTINF:-1,2025-03-12 08:00:00_NBA常规赛_鹈鹕 vs 快船_王猛 吴谦 婧雯
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp6xHLl8FUjAMKCShc3hfLvg/m3u8
 #EXTM3U
 #------ 咪咕体育➊线路 分类开始 ------
-#EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-name="2025-03-12 00:05:06" tvg-logo="https://raw.githubusercontent.com/btjson/TVB/refs/heads/main/logo.png" group-title="列表更新时间",2025-03-12 00:05:06
+#EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-name="2025-03-12 01:05:05" tvg-logo="https://raw.githubusercontent.com/btjson/TVB/refs/heads/main/logo.png" group-title="列表更新时间",2025-03-12 01:05:05
 https://video.mytvsuper.xyz/live/b6b29c59794aa78556ede747ca7b48dfa564901c7a53cbb593b647ae375bda33.mp4?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/5/100000001258106571d1.jpg" group-title="英雄联盟全球先锋赛", 03/11 18:00_TL vs TES_TL vs TES_官方解说
-https://video.mytvsuper.xyz/live/bae8b5eb446ae9fe0c5e21241caa506dda5f49e802f713e512c3abab158b7965.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/8263a36bbe67d7959316f8845b5ad47064797d01ee997b93c5bfca64f3d90482.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 03/11 19:20_WCBA1/4决赛_东莞新彤盛 VS 山东赤水河酒_解说
-https://video.mytvsuper.xyz/live/af1a56ce18112cecc834cc8d5b8b1d7b5c9b9d463f44c4922309c89a6a8bc062.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/a22b5b0b4f03049508fefee0e0690193892200baf1edbd7b270296a5403d1bf7.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 03/11 19:20_WCBA1/4决赛_四川蜀道远达 VS 江苏南钢_解说
-https://video.mytvsuper.xyz/live/91afe4415ec513a13b3050603b106be9bf6014f5836cf3246316fa653b6d1516.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/5a597302d7592af75f2ec84e8b27071dd3ad52a67f88cebfa3055f3bf0535b7f.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 03/11 19:20_WCBA1/4决赛_山西竹叶青酒 VS 上海浦发银行_解说
-https://video.mytvsuper.xyz/live/9002191d38bffdf33892b1618501620326087da5f788bc003672b00cbe34b317.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/299a089cbd1f769fc815ca9ee151f8801fb945cf1b45683efb44921bf615ba3f.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 03/11 19:20_WCBA1/4决赛_内蒙古农信 VS 新疆国达氢_解说
-https://video.mytvsuper.xyz/live/0afbd78df0d80813e2fd17b9c69f06acc941115b4fea45019b69cb1783b174a6.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/8bc1cb3aed9c352939b98774c2f157b99a8a6fa313b78115a49f63ffd1bd2531.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/11 19:00_CBA常规赛第39轮_南京头排苏酒vs辽宁本钢_杨健 丁伟 秋童
-https://video.mytvsuper.xyz/live/97891321708f49c62e60c3829dc6f892626ca61e7880fb35e314d0326ce9d56a.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/7341397aeba944c2d2671c13f9b4d8847a9b2bfd4b370e8625531407d2fb8719.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/11 19:00_CBA常规赛第39轮_南京头排苏酒vs辽宁本钢_吉林vs广厦
-https://video.mytvsuper.xyz/live/db24140cde1b19b3853312a436b78b628ece4e07213bd122d8f9ef1f28db835e.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/ee6f84eede25aa3205eb6c10a08abd22429d1007dfd704d073a1fb12b3f14f42.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/11 19:25_CBA常规赛第39轮_南京头排苏酒vs辽宁本钢_王港
-https://video.mytvsuper.xyz/live/0e5810a243b1f5397e27db858257c4254643315aafaae443c64e265f0994a406.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/8deb01eea9264137553101e0f40124704d88583544e6f9b57f68e9cc38702050.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/11 19:25_CBA常规赛第39轮_南京头排苏酒vs辽宁本钢_哈秋
-https://video.mytvsuper.xyz/live/52c834bd83d717d9292debea4541abd446ecde14b7389c14f24bb2a1b45be304.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/4250e40c1fa4d2133f38bd304744ecd070cf86b5627703d13337b5cae538bfea.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/11 19:25_CBA常规赛第39轮_南京头排苏酒vs辽宁本钢_现场原声
-https://video.mytvsuper.xyz/live/63403c477bfab153969361392a3fdd225b8988bf0efe3892f4ef68e47d252368.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/4e3629685418e58dd3714198625d59be3ffa9fb014b64170c926dbbcd32a4c3f.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/11 19:25_CBA常规赛第39轮_九台农商银行vs浙江方兴渡_现场原声
-https://video.mytvsuper.xyz/live/22ecd88a263783467bc8150ac0d2175b4e0d332fa6fed3e386c21553248feaa9.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/64d9884f24d64f6e40417039d4502e9f0e706ac4c4a670199dc77703fb8ee15c.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/10/29/6M2EMCV4L0OG.png" group-title="亚冠精英", 03/11 19:50_亚冠精英八分之一决赛_柔佛新山 vs 武里南联_刘焕
-https://video.mytvsuper.xyz/live/4ef5d81b03162e88346abdc16b7972878f573b2735434681a801f5e91f34a0e6.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/d6599e61a3238d4dfa30416111400140512c7516aee8e5c1ddf1db14918bab0f.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 03/12 02:00_郑钦文PK科斯秋克 斯瓦泰克出战_郑钦文PK科斯秋克 斯瓦泰克出战_赛场原声
-https://video.mytvsuper.xyz/live/6d2924971a81d08f188d9126c3204e9c14886024bdf3ee00113ab1ed7f454e87.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/1a6a655d321393495b78886c8343c0cc68322bebb3dd0c17c9a326976975f806.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 03/12 11:00_郑钦文PK科斯秋克 斯瓦泰克出战_郑钦文PK科斯秋克 斯瓦泰克出战_WTA印第安维尔斯站1/8决赛-郑钦文 vs 科斯丘克（1号球场解说）(单文强)
-https://video.mytvsuper.xyz/live/2de9d04f220d18ecc8146b8ad4f238ab0e64b81cb8b7ac198b743bc4f7e9e2e7.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/a67c24a94b9889a3f8a8a9addb89bce5bfde711bce3d1b9bd9a184c67eaec037.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 03/12 03:50_亚冠二级1/4决赛_布赖代合作 vs 大不里士拖拉机_王子睿
-https://video.mytvsuper.xyz/live/e88d6209e3511a7cfb536580aa0ca48240ad53c2432e2a8f9aed45ae1b9622dc.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/653479cbe5ff87182de3b7df9dd2238d4e09000858750783665feb5aea224580.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/10/29/6M2EMCV4L0OG.png" group-title="亚冠精英", 03/12 03:50_亚冠精英八分之一决赛_吉达国民 vs 赖扬_鲁靖明
-https://video.mytvsuper.xyz/live/a237fead672c8cf56645c97134f75577d98495f51fb0bc1448eceb10f4e87cb7.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/650e8507dbcedca10fdfa253f65b07277326dca82a8ed96d7d920b0b481f0c90.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/10/29/6M2EMCV4L0OG.png" group-title="亚冠精英", 03/12 03:50_亚冠精英八分之一决赛_利雅得新月 vs 塔什干棉农_张昊泽
-https://video.mytvsuper.xyz/live/219b302d354e32b5c14432b4a6043558a6755fe147f1749ba956e2c645e53a29.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/f6f672243936b946d409c735b8c51d16e2ea6e48d9799db9efea2def0b8b5ef4.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 03/12 06:55_NBA常规赛_篮网vs骑士_孔德昕
-https://video.mytvsuper.xyz/live/e5040a7f44212ca6bfbbcccba366b91838fd561c2f56faaa6a91200dea5a3474.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/549ad6a9e5816bf0181d4d275bbf62e0a743e0bc5f11148f6fce7d84c7615193.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 03/12 06:55_NBA常规赛_奇才vs活塞_王凯
-https://video.mytvsuper.xyz/live/cc6cceea321e42ddd38c845502fe88e0b548ec1401aac77966cb552b26c23699.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/819ded8acd0b79d7ac034529e52f7277009a010a96acfa0d7818f299f1a49935.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 03/12 07:25_NBA常规赛_雄鹿vs步行者_季孟年
-https://video.mytvsuper.xyz/live/64f09df9ea4dd7b587e3af13d6bb64d77c1349c5202d7433edcdd20673dc35cc.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/3230559fee7817e3a1c64f74951af54eb4ce849a48aaef42cae35ac359781737.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 03/12 07:45_NBA常规赛_快船vs鹈鹕_王冠证 徐咏 王羽希
-https://video.mytvsuper.xyz/live/90b7e95ae2d21c65ceaf731d9e20a247223da7cc49c0f8fd6c4cac40b2fa762d.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/95a58c66d225ff5662128d4a1dfb2cc9e58acc8f873a287066aa1d53d2be1411.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 03/12 09:30_【训练馆视角】直击国乒赛前训练_【训练馆视角】直击国乒赛前训练_训练馆
-https://video.mytvsuper.xyz/live/42259114c376bbb1d0a0d1b8c8080ee75230dce589d327ceae5f753700f7aac3.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/efa7816e49f278a7e8708b13cfbea64e7758f03ffd08892a45b8a98cb800798f.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 03/12 10:45_王楚钦王曼昱出战 王艺迪vs伊藤美诚_王楚钦王曼昱出战 王艺迪vs伊藤美诚_周冠达 周泽昊
-https://video.mytvsuper.xyz/live/ec677ec44177dbeb273af9fbf1d5ad5c7093b5fce788690790c1f1a734e544aa.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/f74e32b2c2a1b68e150575e2760d8c9b162f182967320683e332d9a93f744a6a.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 03/12 11:00_王楚钦王曼昱出战 王艺迪vs伊藤美诚_王楚钦王曼昱出战 王艺迪vs伊藤美诚_混采区
-https://video.mytvsuper.xyz/live/bc793c85f26f20ac0e9c339c60ba300213e184bbe1656eb17a7268d1d5444799.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/2dd7ade114880972e523c416a629e96a8999bd049bf18740ec3e43a4c8b5f4f9.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 03/12 11:00_王楚钦王曼昱出战 王艺迪vs伊藤美诚_王楚钦王曼昱出战 王艺迪vs伊藤美诚_赛场原声
-https://video.mytvsuper.xyz/live/85193c2e9a6c94d1c3b073ee4658a088067a9003261296bd42ddcab06904b431.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/4685a9e554a24494d9f3f53e19ebdafaf89bdee31ce1d47dff39acfc5bfba98d.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 03/12 11:00_王楚钦王曼昱出战 王艺迪vs伊藤美诚_王楚钦王曼昱出战 王艺迪vs伊藤美诚_英文解说
-https://video.mytvsuper.xyz/live/7cf3b50052826c23187e0fb217739f27c4eaf38337409bd77ffd6da34516af56.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/f2f6d87b3acff9d57b7504ed762d5b104de2105b8aece99507df4537f29b57a9.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/100000000157106555f9.png" group-title="中女超", 03/12 14:50_中女超_武汉车谷江大女足VS北京东方雨虹女足_清流播出
-https://video.mytvsuper.xyz/live/9100a30e6017dad5bab3b567751fd863a7476c261be2f34dcb67fe2324ab2757.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/6b4e6ef51ef9b64932a2059e0e947d5839154648ed6c6423dbdc1a118c571510.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/5/100000001258106571d1.jpg" group-title="英雄联盟全球先锋赛", 03/12 15:30_CFO vs HLE_CFO vs HLE_官方解说
-https://video.mytvsuper.xyz/live/aca37efbed1a53cd418534c46a5f2dc372ecbe592283d60a1c7a8a8306088d8c.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/cd6a71becb90ec811c7783e8d32a4ca34de9827c66010ab6bd0bddfbd956e5ea.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/8b5679b1-dc37-4f9d-be40-6388c42c3851.png" group-title="KPL", 03/12 16:40_上海RNG.M vs 情久_上海RNG.M vs 情久_官方解说
-https://video.mytvsuper.xyz/live/c81616a93ac05cd2d039d187291b1cc8283cf4c43e5bed8ee813f481c25c77ba.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/5ed1865ee4c09dfbf2b191065206825fc6a919e494356c5a31e1fc3fe1205bee.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/10/29/6M2EMCV4L0OG.png" group-title="亚冠精英", 03/12 17:50_亚冠精英八分之一决赛_光州 vs 神户胜利船_周楚雄
-https://video.mytvsuper.xyz/live/7e9cf4561348214377678af4178d0f1394fca7568bf52a8b1dc4c7287b2a4390.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/b97f71ebc573dd3802417d2b53015803af0e7954dfe1db04bcb0c46d2af66704.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/10/29/6M2EMCV4L0OG.png" group-title="亚冠精英", 03/12 17:45_亚冠精英八分之一决赛_川崎前锋 vs 上海申花_涂远 马延峰 孙蕊
-https://video.mytvsuper.xyz/live/82544153162f863bccb4ebc7c384842aaec31a10a461ef758633ad3afd053ab5.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/f1537ab0bee1c598d01568cae1b5038808e93a213fe5bbd0a7914c7b3276d2fc.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/5/100000001258106571d1.jpg" group-title="英雄联盟全球先锋赛", 03/12 19:00_KC vs TES_KC vs TES_官方解说
-https://video.mytvsuper.xyz/live/75630f2b5a6ab104a17c8639824db658ca1f0186aaa6d0b9f7dfcfc7871fa835.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/4710365f3cc64d1e7f6b10bba4bd52e173d2d4ca24be09158b30ecb01040246f.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 03/12 19:20_WCBA排位赛_北京首钢园 VS 黑龙江上东_解说
-https://video.mytvsuper.xyz/live/54232bf344ba827c20dfe3a0ade58541c3bf506ab45e1df424eb214d58f4eece.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/c8decccb61448d99d84a0303c870dac99d437ed163b88b343e592ee97978f9fc.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 03/12 19:20_WCBA排位赛_石家庄英励 VS 河南豫光金铅_解说
-https://video.mytvsuper.xyz/live/17057bc3482668cee36ee1936d0a600c2c126dad3185a32a73e82be9e4b4ad53.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/3b3c60a702c45342531d1a179eee95f534b274f37891f86afd9a9709bd542a68.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 03/12 19:20_WCBA排位赛_福建晋江众腾 VS 武汉盛帆黄鹤_解说
-https://video.mytvsuper.xyz/live/10bcb967a0ba1975e607588e9f16209b142be6df15c1f57dc29aeb76fed9cbd4.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/797ab8842904ea8b2d0421987aafe824134dde768d844b6acbd7ab19d6fabcfd.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 03/12 19:20_WCBA排位赛_浙江稠州银行 VS 陕西天泽_解说
-https://video.mytvsuper.xyz/live/c8dfeb2fbb763be2df48498b259f78f3a4dbb3fc907f3586f700a79e52f071d8.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/3940f757b304eb96565b67add1597a166409a6b967c6f96058c21c48db1bb7cb.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/12 19:15_CBA常规赛第39轮_上海久事vs浙江稠州金租_李天宇 张兆旭
-https://video.mytvsuper.xyz/live/2fc3b670b597cc6712d688ea125f1d814506fce1ad6a2138d5536b0c60f99466.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/afae0ae81781a47573a9f28f2583ed2b0e65a143e66325e71b3fc7fb519e48dc.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/12 19:25_CBA常规赛第39轮_上海久事vs浙江稠州金租_张俊卿
-https://video.mytvsuper.xyz/live/8e10cae9183cb5deeb7596269dee07c931d6c992fc7d3dfb4fcd8080a0e1dad6.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/8c1f1d0ff9454e12029ae7cdf99c188fd5a0629e4bc1466a76bf00a85e2c5f0f.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/12 19:25_CBA常规赛第39轮_上海久事vs浙江稠州金租_金哲豪
-https://video.mytvsuper.xyz/live/4a4b4f96c98bcf05df84ea55ad2ebfe33bfc39ad34893467941ff58abb1572d7.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/aec9b18f7358756f9eae2112968ec4765d872ce16484620c7e049fc8d7f61365.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/12 19:25_CBA常规赛第39轮_上海久事vs浙江稠州金租_现场原声
-https://video.mytvsuper.xyz/live/97fd5b9c55e56aa34fa27a5059a0c8ae909efb1fcf21f263cded051050c15543.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/2963babd499f988a8a4a9309ec9f71015d5967568919963191189082611d7e85.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/12 19:00_CBA常规赛第39轮_天津先行者vs广州朗肽海本_张浩岳
-https://video.mytvsuper.xyz/live/fb7f59c3efcf8fe0e62e3cec97a1722378756be2d452c28f13db3bcdf4155703.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/e2f8d7603c521fe286be63a819a9a7e35ce4bcf5ec621568ea2556fe2ad8b8d9.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/12 19:25_CBA常规赛第39轮_天津先行者vs广州朗肽海本_现场原声
-https://video.mytvsuper.xyz/live/22135e2c3ec3eeacbe56ea88a8ce41faa3182c2744efa436c44f4dd50f5cbd21.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/131e6d1a9c1d70bae58bfcd3760474a8b0bc52d1b83ecb48a63e419527b232d2.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/12 19:00_CBA常规赛第39轮_广东东阳光vs四川丰谷酒业_蔡凯臣
-https://video.mytvsuper.xyz/live/ef9d5e5e5f7a2e4e7ac07353e6e5544e51651893ed59ab5dbbfc5b1872d81122.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/c490f6da4ae7154555cab88c1fbd194c21124f119ae83dd7d550055bcf7d1ffe.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/12 19:25_CBA常规赛第39轮_广东东阳光vs四川丰谷酒业_翻译小余
-https://video.mytvsuper.xyz/live/53ec51aa6681ddb9a17d8d50e75637eab8934a8e7d573d4952b3a084f49b4b5c.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/2d80aa86f440e48b150aac85f05bae70f3b8c72198ccec389ff21670a4bcc047.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/12 19:25_CBA常规赛第39轮_广东东阳光vs四川丰谷酒业_字诚
-https://video.mytvsuper.xyz/live/fcf593278b11b0ef1ea02a321c00a0b20da2b198ca16eb06e61448ed9601b78a.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/50c57d4c7ed5129893957372c8151d9fb059759c6f666984fa4bffaf2dc9866d.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/12 19:25_CBA常规赛第39轮_广东东阳光vs四川丰谷酒业_3D全真视频
-https://video.mytvsuper.xyz/live/15bfe9acbb36e5346cf5236ea8e41455e708411aa6971d8127dba8d5d53fe7d4.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/2ea3e039ac8fa2afebc25d053f3932d6eeecf503223f0c68cf3ec54aa32fb9df.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/12 19:25_CBA常规赛第39轮_广东东阳光vs四川丰谷酒业_现场原声
-https://video.mytvsuper.xyz/live/3d0027d92760065dbecbb4274ebc11be94093c7354fd5ed4dd048556ac0a1c0b.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/65ed89d387558f96706f816d54ce56ee9b027321e5b143dc55e60d5b10bab627.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/12 19:00_CBA常规赛第39轮_福建晋江文旅vs宁波町渥_吴博文
-https://video.mytvsuper.xyz/live/5169e57b0a4165433d6d8606cba864c37a3904e0d7c3d7ad6617920fd8728195.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/1c9aa170b7917cfbd8f908d0e01efa6bad80ccd2fd92ba25998dcc0c64884557.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/12 19:25_CBA常规赛第39轮_福建晋江文旅vs宁波町渥_现场原声
-https://video.mytvsuper.xyz/live/f5450e56e0161583dd2a5315dd3fb8545009726082a7a839c0f566e6a4a42c1d.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/988f028b2878af876b55830afbf3d3f7da2f6a256967cd1c058a1fc0b8eae71f.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/12 19:15_CBA常规赛第39轮_北京北汽vs青岛国信制药_连睿 李根
-https://video.mytvsuper.xyz/live/e7581b4ae59465d2d4a3c2d8c4b41d19b976f4aea6583b12f66ea8adf6e8ecc6.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/16fa4666eb6137da9dd610ea2c5b28835dd127c86a90f245496883512dab17a6.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/12 19:25_CBA常规赛第39轮_北京北汽vs青岛国信制药_现场原声
-https://video.mytvsuper.xyz/live/4b01a61c5ba7ebe8ec930e705eea3f0e33ec1bf0ec65c52792b6d22566b332c9.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/33708212e59f5b3aec93592b2bf363196969b0a8ea6e6c2dbf60534429580756.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/12 19:30_CBA常规赛第39轮_新疆伊力特vs深圳马可波罗_刘圳展
-https://video.mytvsuper.xyz/live/5b4ff7ab0e4ad8f54abcd22b59e08595707502388670328668b472438c052d09.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/b0102ae510a5d26a251b44e98eddb267b3083c48a696a243fc8c42e29d0bd150.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/12 19:50_CBA常规赛第39轮_新疆伊力特vs深圳马可波罗_现场原声
-https://video.mytvsuper.xyz/live/83c425e38fda1973ef0ac1320aaf5992342bbbe9f75e011b7bef183ac6dbce06.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/a5af6a9942f8009ea1fcaac18c5e82bed3df4265d5f2e6bf70893c32bd574fa7.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 03/12 19:50_亚冠二级1/4决赛_本国联队 vs 广岛三箭_盛斌
-https://video.mytvsuper.xyz/live/f8cc502997d851982919ec28f207d5e370da709b30361714fe28d34f99953ccc.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/ba1569fa4fab21f77f26e81b4f10fbca4adc0cd39a20910a1d41b8182702da4f.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/8b5679b1-dc37-4f9d-be40-6388c42c3851.png" group-title="KPL", 03/12 20:00_济南RW侠 vs 佛山DRG_济南RW侠 vs 佛山DRG_官方解说
-https://video.mytvsuper.xyz/live/0c3a99aff1dada6dd3dd56c5fcf1b5f97a5dfcc377c91906d7dd3150b5d635d1.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/f9e7201c15cfe7028dfbf14f7eda4b85a5cc064dbd4159b16567fad7e7ff7e30.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 03/13 01:50_亚冠二级1/4决赛_沙亚赫 vs 迪拜国民_乔迁
-https://video.mytvsuper.xyz/live/67057c2f1990342e8a50925080e00ff1d73bbc0aa1293dc3b1745d512d56ed92.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/8493b541bed3878b853b9c3e5bf6579172b4f410b1277d6981f35eebdbda2bba.m3u8?token=431073540986120
 #EXTINF:-1 group-title="咪咕体育➊线路",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 03/13 02:00_WTA印第安维尔斯站第八日_WTA印第安维尔斯站第八日_赛场原声
-https://video.mytvsuper.xyz/live/0ba694381ab56be557017bdbc96122daf8c2205e8a199d8cebbc55a7e66c85fc.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/93588609ac64da38bbc5f7927307555cf1e822b284f0c2ed117e6df59a2ae031.m3u8?token=431073540986120
 #------ 咪咕体育➊线路 分类结束 ------
 #------ 腾讯体育➊线路 分类开始 ------
-#EXTINF:-1 group-title="腾讯体育➊线路",-1 tvg-name="2025-03-12 00:05:10" tvg-logo="https://raw.githubusercontent.com/btjson/TVB/refs/heads/main/logo.png" group-title="列表更新时间",2025-03-12 00:05:10
+#EXTINF:-1 group-title="腾讯体育➊线路",-1 tvg-name="2025-03-12 01:05:08" tvg-logo="https://raw.githubusercontent.com/btjson/TVB/refs/heads/main/logo.png" group-title="列表更新时间",2025-03-12 01:05:08
 https://video.mytvsuper.xyz/live/b6b29c59794aa78556ede747ca7b48dfa564901c7a53cbb593b647ae375bda33.mp4?token=431073540986120
 #EXTINF:-1 group-title="腾讯体育➊线路",-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="WTA1000印第安维尔斯站", 2025-03-12 02:00:00_WTA1000印第安维尔斯站_WTA1000印第安维尔斯站第4轮：斯瓦泰克、莱巴金娜出战_杜宾 杨宇成
-https://video.mytvsuper.xyz/live/7f4596760599c3bf4fb4a0f748a97289729c514d5530ed3d6ed969fec88b53fb.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/7b33a7c0cdfbe13865a06daa7fdf57f8a4507fc46cecb3d03c96cd149121bddb.m3u8?token=431073540986120
 #EXTINF:-1 group-title="腾讯体育➊线路",-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="WTA1000印第安维尔斯站", 2025-03-12 02:00:00_WTA1000印第安维尔斯站_WTA1000印第安维尔斯站第4轮：斯瓦泰克、莱巴金娜出战_赛场原声
-https://video.mytvsuper.xyz/live/e0dd4ccced9df268942dad9396f8b9cbb05b2cfa27f309d2153e36497c7c329b.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/7d4f1713334546fa9b9dd5d072863ce4d5e4a0a4028beadc42c7343d02de8394.m3u8?token=431073540986120
 #EXTINF:-1 group-title="腾讯体育➊线路",-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-12 07:00:00_NBA常规赛_骑士 vs 篮网_丁楠
-https://video.mytvsuper.xyz/live/78ce54d3eac61bf20070ae5e158f59fb5133c3648efcd40efb82b542c5d877b4.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/8253463a823b69a3ad68d636cad411068a9307d4dccbe16641202ef1eff99847.m3u8?token=431073540986120
 #EXTINF:-1 group-title="腾讯体育➊线路",-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-12 07:00:00_NBA常规赛_骑士 vs 篮网_英文原声
-https://video.mytvsuper.xyz/live/2c65b0be02bfe506d9860383a2b52971ef001758d89c9c2a812f17899146af19.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/3e47a1328e5534371513848d93354c049f72688be47fe3f47363c47f71ec3493.m3u8?token=431073540986120
 #EXTINF:-1 group-title="腾讯体育➊线路",-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-12 07:00:00_NBA常规赛_活塞 vs 奇才_金浩霆
-https://video.mytvsuper.xyz/live/8edc35798ef58ce99259a46ef4ae448056693e690c2510287492fe20c36bc9b4.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/f62f985dbca43ac5d5743f033f647b2f390eadaa414dba3e4b70e597e86f32fb.m3u8?token=431073540986120
 #EXTINF:-1 group-title="腾讯体育➊线路",-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-12 07:00:00_NBA常规赛_活塞 vs 奇才_英文原声
-https://video.mytvsuper.xyz/live/de80225f11900c323d963073447f326ddee420fe7860e87ed98bbf6d9817d551.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/be5033b07409e4997851880b4c6038a624883d729b4fbcedc9ae0e292a960413.m3u8?token=431073540986120
 #EXTINF:-1 group-title="腾讯体育➊线路",-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="篮球直播节目", 2025-03-12 07:30:00_篮球直播节目_《早安 NBA》第133期：MVP，可不能平分！_王猛 吴谦 婧雯
-https://video.mytvsuper.xyz/live/a95473bb9937b8f7cb47bb07c09ae68c4f677e6ba82145353185e853ab1ded7f.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/c5148d75888d868971808cbff9d61f519d3350a397a41bade48e3d76c4199f78.m3u8?token=431073540986120
 #EXTINF:-1 group-title="腾讯体育➊线路",-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-12 07:30:00_NBA常规赛_步行者 vs 雄鹿_柯凡 曾令旭 泱泱
-https://video.mytvsuper.xyz/live/1adb99d6fa316aaeffddd9a9a3dc8c7cfaa190f5e55a0eaa53ecd44bf8180fae.m3u8?token=431073540986120
-#EXTINF:-1 group-title="腾讯体育➊线路",-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-12 07:30:00_NBA常规赛_步行者 vs 雄鹿_球星视角
-https://video.mytvsuper.xyz/live/fe89c0e2a282f32aeb6467a3d2759fa15eebe98d83c737787e6e14767fbbf333.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/47355c30c217d7a1efff97bc9bb76dcff25f78e4e8ca83e9ee922998cb88b67a.m3u8?token=431073540986120
 #EXTINF:-1 group-title="腾讯体育➊线路",-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-12 07:30:00_NBA常规赛_步行者 vs 雄鹿_英文原声
-https://video.mytvsuper.xyz/live/b301c00d8034a71264cbe52dcbc66f8b977cf3a606bfaf78763e0ae16b6a8d86.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/974ddfc8da306ed95a6ea79ee4b97e5277046c9fd3e3002e716b21b261850bc5.m3u8?token=431073540986120
+#EXTINF:-1 group-title="腾讯体育➊线路",-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-12 07:30:00_NBA常规赛_步行者 vs 雄鹿_球星视角
+https://video.mytvsuper.xyz/live/80c39b9c6fce61aa611d628cddd9cdb7021f85c604eb2b45f1a43e32b02381ba.m3u8?token=431073540986120
 #EXTINF:-1 group-title="腾讯体育➊线路",-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-12 08:00:00_NBA常规赛_鹈鹕 vs 快船_王猛 吴谦 婧雯
-https://video.mytvsuper.xyz/live/dee4180053123477d9c766c85e897b013f7de0191acfa5ef89b3132ed1645fbe.m3u8?token=431073540986120
-#EXTINF:-1 group-title="腾讯体育➊线路",-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-12 08:00:00_NBA常规赛_鹈鹕 vs 快船_英文原声
-https://video.mytvsuper.xyz/live/fb151876e994ce55e72c4cda64eb18adf2c6e88b1c92f31d131a6aa8788b8bca.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/0c9b379e389dff41690493f40c02202f96e11a0d1a083150730b7bc4b00b2fe3.m3u8?token=431073540986120
 #EXTINF:-1 group-title="腾讯体育➊线路",-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-12 08:00:00_NBA常规赛_鹈鹕 vs 快船_球星视角
-https://video.mytvsuper.xyz/live/4696afa3ceba21f241d122e20fc767bd717225f4361d8c10aa161e126541a82f.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/d4fcf6fc009d65f4ba4125d8b5f58bae346f46dd5a08d71c8ec1a36a3c0c22f5.m3u8?token=431073540986120
+#EXTINF:-1 group-title="腾讯体育➊线路",-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-12 08:00:00_NBA常规赛_鹈鹕 vs 快船_英文原声
+https://video.mytvsuper.xyz/live/54b228f785abbfe6e7c22ff342b7cc78a3e3e4a49fdc9bb6baceadbb3da352ef.m3u8?token=431073540986120
 #EXTINF:-1 group-title="腾讯体育➊线路",-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="发布会", 2025-03-12 10:00:00_发布会_雄鹿vs步行者 赛后新闻发布会
-https://video.mytvsuper.xyz/live/302b2f22446c1e96da4f8ddbf588593538dc1a1ef31231a7ab01f094dbd95422.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/2b227b9cb119f3921adb3959b8c4280e35ee3618e6db9e8ab90b529986ca1176.m3u8?token=431073540986120
 #EXTINF:-1 group-title="腾讯体育➊线路",-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="发布会", 2025-03-12 10:30:00_发布会_快船vs鹈鹕 赛后新闻发布会
-https://video.mytvsuper.xyz/live/b29b9f796bcb1754a606dd79bb9f3b9827deceb133355242a4104e9b4f8aa4ee.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/a0442950b7e01e0e0a88e86cbf4075b4e2f8b94b90f5e87d3bbfd491ab9172cb.m3u8?token=431073540986120
 #EXTINF:-1 group-title="腾讯体育➊线路",-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100308.png" group-title="WTA1000印第安维尔斯站1/8决赛", 2025-03-12 11:00:00_WTA1000印第安维尔斯站1/8决赛_科斯丘克 vs 郑钦文_刘钟鸣 胡力涛
-https://video.mytvsuper.xyz/live/1523153cba864e5e81863dcc844fede887c499c56e1a2bab69198316a32af615.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/d83c38b8f193caeb16d39cd69ceeb71690280b590e3c2c41b9cb019d84778f2e.m3u8?token=431073540986120
 #EXTINF:-1 group-title="腾讯体育➊线路",-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="NBA经典赛", 2025-03-12 14:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 掘金vs雷霆
-https://video.mytvsuper.xyz/live/c8971004c24120d53258377fc1b320fbb250df4ac33b2b7d8abec314e19604ed.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/1e8cc1003076edc38f837fb1235be1a08bfcd0df7ec7b07a39c2c4a77f225eec.m3u8?token=431073540986120
 #EXTINF:-1 group-title="腾讯体育➊线路",-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="NBA经典赛", 2025-03-12 16:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 太阳vs灰熊
-https://video.mytvsuper.xyz/live/145c1a9ea21ef17ae2a59137f96b576520ec535412ea91766b0cb1f81a263f9c.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/8f81c7ba949545063ca228ec8144e1bb92fefb88b429fd5d7e50adf62787dc8c.m3u8?token=431073540986120
 #EXTINF:-1 group-title="腾讯体育➊线路",-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="NBA经典赛", 2025-03-12 18:00:00_NBA经典赛_《今日NBA》3月12日NBA集锦精彩回顾
-https://video.mytvsuper.xyz/live/a8697676447f1040fd32db7e333040fa674d388af961c2b22d98871a41183c1b.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/c105ba7c32a28c387dad2099812418c4079ce006662213d8d07432219fc72912.m3u8?token=431073540986120
 #EXTINF:-1 group-title="腾讯体育➊线路",-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="NBA经典赛", 2025-03-12 20:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 快船vs鹈鹕
-https://video.mytvsuper.xyz/live/d3108cc704a22cf9caac4318ba3eabdb2e6bbade89df99bfc9724440022da636.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/27437a47dfcc7723108673f76dd34fd28018d7115c00d1a05197392c916b8eda.m3u8?token=431073540986120
 #EXTINF:-1 group-title="腾讯体育➊线路",-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="WTA1000印第安维尔斯站", 2025-03-13 02:00:00_WTA1000印第安维尔斯站_WTA1000印第安维尔斯站第4轮 第2日_黄锟 李宁
-https://video.mytvsuper.xyz/live/b16e4d943013c3f6be90e5470be0cddbc45d1d6772293acafb09ab9236ec28bb.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/d4699c90564f3453edaa1a6264f699b50b84249d606294d7d3ab7726da93798a.m3u8?token=431073540986120
 #EXTINF:-1 group-title="腾讯体育➊线路",-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="WTA1000印第安维尔斯站", 2025-03-13 02:00:00_WTA1000印第安维尔斯站_WTA1000印第安维尔斯站第4轮 第2日_赛场原声
-https://video.mytvsuper.xyz/live/b1b70b68ffbc3a6f8f007188526cb47fd914bbf55495a5b5a10f2561f38c9431.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/6b7671c03006ce7bedc16a081c856b6c766c51ea55b5b783d7c85ccd34ab76b7.m3u8?token=431073540986120
 #------ 腾讯体育➊线路 分类结束 ------
 #------ 奇艺体育➊线路 分类开始 ------
-#EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-name="2025-03-12 00:05:15" tvg-logo="https://raw.githubusercontent.com/btjson/TVB/refs/heads/main/logo.png" group-title="列表更新时间",2025-03-12 00:05:15
+#EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-name="2025-03-12 01:05:11" tvg-logo="https://raw.githubusercontent.com/btjson/TVB/refs/heads/main/logo.png" group-title="列表更新时间",2025-03-12 01:05:11
 https://video.mytvsuper.xyz/live/b6b29c59794aa78556ede747ca7b48dfa564901c7a53cbb593b647ae375bda33.mp4?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/亚精英赛.png" group-title="亚精英赛", 2025-03-11 19:55_亚精英赛_柔佛新山vs武里南联_熊广硕 
-https://video.mytvsuper.xyz/live/9bf1aa4461260ba48d5f0d2e820553f81f8c7ca3af95fcb0ca4d8348969004ca.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/a5aefed6ffbd9c230b090be3263945c869a89ae288e6fc2e4105fbb0190861b8.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/亚精英赛.png" group-title="亚精英赛", 2025-03-11 19:55_亚精英赛_柔佛新山vs武里南联_English Commentary 
-https://video.mytvsuper.xyz/live/6bb913350ba0e87b81a4c7f5a170057df0e9e595330aae9c398d7456a8ad1040.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/cf5b2b645a91a8ac4f0bbad3fa746b67ef9fded776eed5096d3f83f921ab1f95.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-03-12 01:30_欧冠_巴萨vs本菲卡_李欣 孟洪涛 
-https://video.mytvsuper.xyz/live/ffc22a23a20bea700b957a14e1058c419bae0efe928b384e1f8f7f5d489ad8e7.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/38fa13665d61a6db25cf6dc2f8d2c2afb2e600986d8ebac0436a49dcf9a8cbde.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-03-12 01:30_欧冠_巴萨vs本菲卡_English Commentary 
-https://video.mytvsuper.xyz/live/e4af8305008ac8c29d579db5b3a192a578289c96a942eff8bf0cc13322ff1514.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/b41e7e97c904b6ecd6ef8322bc3c0201174ba7f38f074dae2c6351d80a2b3ffa.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-03-12 03:45_欧冠_勒沃库森vs拜仁_熊冰杰 董方卓 
-https://video.mytvsuper.xyz/live/d85df0ecedff555f5b7cc49bf94aeaa2d7b4ee9c15916b2610ccfe298396156f.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/8c02fc17b6eb3e93b48bb1e700d54a75c495a234196dc5935052ffbfd3791169.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-03-12 03:45_欧冠_勒沃库森vs拜仁_English Commentary 
-https://video.mytvsuper.xyz/live/dc2c2429f9e1bd27e3cbcf164db0e9cb169d3b3c45914f6a3c4b3bfcff7399da.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/98544afa477e094c83564888b94dc3454db195018ac8bad7e300197d4f88b24c.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-03-12 03:45_欧冠_利物浦vs巴黎圣日耳曼_高季敏 刘勇 
-https://video.mytvsuper.xyz/live/1c62d913f8e5a168b78c13844bd5219a965d8659b9acb5013c02fe71e5ae897e.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/726d78abf29be2e6b93a6a87e6097553e4dd65166148bed5d357169838168046.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-03-12 03:45_欧冠_利物浦vs巴黎圣日耳曼_陈文森 
-https://video.mytvsuper.xyz/live/20ddad6c954ca46af599cecb21fd8a6f6c2bb04836693700a738ca4bbec73b6b.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/b88bf8adefa4e106a83a0623fbce09e3cb6335b351614b1e1f02fcecd0056c78.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-03-12 03:45_欧冠_利物浦vs巴黎圣日耳曼_English Commentary 
-https://video.mytvsuper.xyz/live/aef8c47f84ce04525c73a4b638a04f632ac3918292e45573f5cd462be35f41e5.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/67bea8ca3e0591cf56854d315aa30b0545c3c5750810892ab75032f3b71b14c2.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/亚精英赛.png" group-title="亚精英赛", 2025-03-12 03:55_亚精英赛_利雅得新月vs塔什干棉农_秦晋 
-https://video.mytvsuper.xyz/live/7815253efa86fc4478d1f086795b7a002d83d57a648a9a5e7da675f6d5dfbd21.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/1f53ffba6ed150687bda61f98460c36344aadfc39032d041493eb640507a8feb.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/亚精英赛.png" group-title="亚精英赛", 2025-03-12 03:55_亚精英赛_利雅得新月vs塔什干棉农_English Commentary 
-https://video.mytvsuper.xyz/live/24b6f41dfd18f3275cfdab7c90541b444c70c52c2ab5198aa82a1b28ce82f216.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/084bfb7f526b95c06de53580b2e2688069580fb7a41855c0cdbd3888fc2075d4.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/亚精英赛.png" group-title="亚精英赛", 2025-03-12 03:55_亚精英赛_吉达国民vs阿尔赖扬_朱一览 
-https://video.mytvsuper.xyz/live/868ca08df14999db5f750beb00522ed61c8315ae61fbd77725bcdeb6f2401140.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/7870bca1cf567266f7bd00dce2dfe6fb8be405ec46ac20ac994b03baa9ccdcee.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/亚精英赛.png" group-title="亚精英赛", 2025-03-12 03:55_亚精英赛_吉达国民vs阿尔赖扬_English Commentary 
-https://video.mytvsuper.xyz/live/474f05d0c7446869de58d11cf67dcede7efb2e60f17a6299c5c67d1f4c94bcad.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/8b2bbedecce429f54b5f2991f55c55a64cb18d2e1c28397b5751aabb97b7a2ba.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-03-12 03:55_欧冠_国米vs费耶诺德_王正坤 李嘉伟 
-https://video.mytvsuper.xyz/live/4127077906a39104be2257197f322deb9e2db903ba9d08e24912d4275402f9bd.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/5a0fd53470e5db3bc7fc62c3b4097c0bcf8543b99c11ce841b89a202803bf083.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-03-12 03:55_欧冠_国米vs费耶诺德_English Commentary 
-https://video.mytvsuper.xyz/live/c996421cd399839dc369cab4a495847989fe99703f2ab8e576f7ea472a12cafa.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/0640463e13eafc1ebce141cf4e5bd802eaf09d8480b08225f152d97d8ad15776.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/亚冠二级.png" group-title="亚冠二级", 2025-03-12 04:00_亚冠二级_布赖代合作vs拖拉机_English commentary 
-https://video.mytvsuper.xyz/live/b5e0e1050a1d7eb721e19d289e839d8e0b9a538bf000cb6e9cc30914686b6938.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/7bf5ac9b38117914f94d68f6d02f4bcceb9640560dd5469d31722cc1b69ad701.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/亚精英赛.png" group-title="亚精英赛", 2025-03-12 17:45_亚精英赛_川崎前锋vs上海申花_高季敏 刘勇 
-https://video.mytvsuper.xyz/live/e07165f183f4ff8c0040e854049defe5b9cfeb070337b75dc0644fe5f0124a18.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/83685b7c8c1bfbeb43441b906f1cf6df2e11c1340726b0c0ddab67ce6a990a83.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/亚精英赛.png" group-title="亚精英赛", 2025-03-12 17:45_亚精英赛_川崎前锋vs上海申花_陈文森 
-https://video.mytvsuper.xyz/live/db13792ea62258ec4be0bb55998db0f1d176387758f36fcb728c5f7a7fe46e29.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/16481455b98e43625a16bf33b4092591a3ae5de117242a56496967f5bee63e37.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/亚精英赛.png" group-title="亚精英赛", 2025-03-12 17:45_亚精英赛_川崎前锋vs上海申花_English Commentary 
-https://video.mytvsuper.xyz/live/0afd126b894daa3edc49b5b56cb1b3e6e2b4c6d2f3cf4e0e1b9f77683b2f8551.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/a5e67725a1d1f7ca1b714f91819036194871dec1c28e9a92b23ad13d9752ae5d.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/亚精英赛.png" group-title="亚精英赛", 2025-03-12 17:55_亚精英赛_光州FCvs神户胜利船_张学洋 
-https://video.mytvsuper.xyz/live/9459c7a91aefb9cfb176d137ee2654f51f4b93e7538cafbfb2bd8813b29edc0b.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/a7c14058f69de58a8fab83efdab32904e53e8f625b06e4c6fb4b2802dfd6312c.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/亚精英赛.png" group-title="亚精英赛", 2025-03-12 17:55_亚精英赛_光州FCvs神户胜利船_English Commentary 
-https://video.mytvsuper.xyz/live/9cba1625755ff34818c4c7d135fe56fbb94eaf33abf6a0954456891fc601fa00.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/d92cab57c3e934b7d9a3e77240072df84f18ffa12ebdea33a69d058517d1bdc2.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/亚冠二级.png" group-title="亚冠二级", 2025-03-12 20:00_亚冠二级_狮城水手vs广岛三箭_English commentary 
-https://video.mytvsuper.xyz/live/a08d6ab1dd8e225cf88574f5590da10aa3cb50f4e997943210bc19eaf8ddb3b0.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/d1e7f61f61f1dd996c87f5590afa58c0f1d60872c6755292de5ae2a1297d6712.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-03-13 01:30_欧冠_里尔vs多特蒙德_肖天宇 陈瑞阳 
-https://video.mytvsuper.xyz/live/73abcdeb859f1828e50395f45caf0de21735bbafbfc7c861c857dbdf4898823c.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/8ada37d95c560ea61526bb2dc181d7f7e781fb51b4e91d82093e118b9f4bfebd.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-03-13 01:30_欧冠_里尔vs多特蒙德_English Commentary 
-https://video.mytvsuper.xyz/live/c0e44a623776c25be32bca58f9fc5cdfab42fcd9d872f973c0fdae1e2db0288b.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/cdd80e5790bf2da26297c8ab8ebe4853ef94f2a361fcbabc51ce874ad2940270.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/亚冠二级.png" group-title="亚冠二级", 2025-03-13 02:00_亚冠二级_沙迦vs迪拜青年国民_English commentary 
-https://video.mytvsuper.xyz/live/f00dd09dee46e4b0cb391f22dd30a00442a31dcdbe0ab988d58d479878637911.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/2d3134276fa0177652eb0283dba4ed9d3aa0ea7860fa40041fc19bb326bec3bf.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-03-13 03:45_欧冠_阿森纳vs埃因霍温_熊冰杰 董方卓 
-https://video.mytvsuper.xyz/live/19a32d163fe741d6dfb6719599bd2096a547393c3d9f58f238de9f80124f4cfb.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/403651cd87260121c66c3cd06a3c3315a29758478a78d9a767e650079a1ffc9f.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-03-13 03:45_欧冠_阿森纳vs埃因霍温_English Commentary 
-https://video.mytvsuper.xyz/live/47a95c625bec12d726c28a07c006a4952b3aa810506930cc4be90f3f56f2e483.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/e16499f2943204864d7009368f64c4bb1d28fa204527934f4be7e47b731375cf.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-03-13 03:45_欧冠_马竞vs皇马_李欣 孟洪涛 
-https://video.mytvsuper.xyz/live/79869305f1f6fa9189a9282c9389fcd9ff5fb13e33adc71958502dd3f1426a2c.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/e03a7e29693624fe60cfcdbbb742025fbc026ae7928ad1f6fa3f2a9048597f5d.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-03-13 03:45_欧冠_马竞vs皇马_陈文森 
-https://video.mytvsuper.xyz/live/31ab19a01c4b8860fb7dbe640be335382ff10eb8803d40dcbe01e0a2abf63012.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/2d0daf778c2e85b3b9dd140b1ff8831eae54a45c18e91ff3cb400ffa12b4e6b6.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-03-13 03:45_欧冠_马竞vs皇马_English Commentary 
-https://video.mytvsuper.xyz/live/8162283b621c38bcd6b67434d0bf52f372fb662373c83b69e212aca9c499824e.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/10ac58da49007553532dc648a44ebb35950865a6c6a0c2b8e827f321f3ac32d7.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-03-13 03:55_欧冠_阿斯顿维拉vs布鲁日_汤宪博 
-https://video.mytvsuper.xyz/live/ec0a30d8249e08a4c25fa1cc313f77a5824166ed90495cdac2501808c15ce9a8.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/354d86361cda739eb6c7ac2b88138d7062146bedeb2703353817181d206c5d90.m3u8?token=431073540986120
 #EXTINF:-1 group-title="奇艺体育➊线路",-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-03-13 03:55_欧冠_阿斯顿维拉vs布鲁日_English Commentary 
-https://video.mytvsuper.xyz/live/32a2b0cf71eef79df3ae33a36982c3768db34321f90b91f429c03c00cee88d6d.m3u8?token=431073540986120
+https://video.mytvsuper.xyz/live/5967c71c06160b7d36bd5bebb6f74536de933cc38d4b56790bcc90eccc5eae8e.m3u8?token=431073540986120
 #------ 奇艺体育➊线路 分类结束 ------
