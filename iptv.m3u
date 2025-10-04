@@ -1,16 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.136605.xyz/1day.xml.gz"
-#EXTINF:-1,tvg-id="光影视听公告" tvg-name="光影视听公告" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php?name=CCTV1" group-title="光影视听电视公告",更新时间10/3 22:50
-https://v0.ekuai.asia/live9/iptv.php?h=b6d5d80bbdc05fc249fa935916b1b057d5f972b8a9f31af475e0e5d00c28b8d7&t=H87E8N2I&u=aHR0cDovL2V2ZW50LnB1bGwuaGVidHYuY29tL2ppc2hpL3dlaXNoaV90aW5neXVuLm0zdTgN
-#EXTINF:-1,tvg-id="订阅自动绑定网络IP 复制无效" tvg-name="订阅自动绑定网络IP 复制无效" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php?name=CCTV1" group-title="光影视听电视公告",订阅自动绑定网络IP 复制无效
-https://v0.ekuai.asia/live9/iptv.php?h=b6d5d80bbdc05fc249fa935916b1b057d5f972b8a9f31af475e0e5d00c28b8d7&t=H87E8N2I&u=aHR0cDovL2V2ZW50LnB1bGwuaGVidHYuY29tL2ppc2hpL3dlaXNoaV90aW5neXVuLm0zdTgN
-#EXTINF:-1,tvg-id="播放失效异常时请刷新订阅" tvg-name="播放失效异常时请刷新订阅" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php?name=CCTV1" group-title="光影视听电视公告",播放失效异常时请刷新订阅
-https://v0.ekuai.asia/live9/iptv.php?h=b6d5d80bbdc05fc249fa935916b1b057d5f972b8a9f31af475e0e5d00c28b8d7&t=H87E8N2I&u=aHR0cDovL2V2ZW50LnB1bGwuaGVidHYuY29tL2ppc2hpL3dlaXNoaV90aW5neXVuLm0zdTgN
-#EXTINF:-1,tvg-id="请将软件User-Agent改为okhttp/3.12.0" tvg-name="请将软件User-Agent改为okhttp/3.12.0" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php?name=CCTV1" group-title="光影视听电视公告",请将软件User-Agent改为okhttp/3.12.0
-https://v0.ekuai.asia/live9/iptv.php?h=b6d5d80bbdc05fc249fa935916b1b057d5f972b8a9f31af475e0e5d00c28b8d7&t=H87E8N2I&u=aHR0cDovL2V2ZW50LnB1bGwuaGVidHYuY29tL2ppc2hpL3dlaXNoaV90aW5neXVuLm0zdTgN
-#EXTINF:-1,tvg-id="限制测速 必须关闭预览图 否则屏蔽" tvg-name="限制测速 必须关闭预览图 否则屏蔽" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php?name=CCTV1" group-title="光影视听电视公告",限制测速 必须关闭预览图 否则屏蔽
-https://v0.ekuai.asia/live9/iptv.php?h=b6d5d80bbdc05fc249fa935916b1b057d5f972b8a9f31af475e0e5d00c28b8d7&t=H87E8N2I&u=aHR0cDovL2V2ZW50LnB1bGwuaGVidHYuY29tL2ppc2hpL3dlaXNoaV90aW5neXVuLm0zdTgN
 
-合并区域开始///
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php?name=CCTV1" group-title="央视卫视·河南电信",CCTV1
 https://v0.ekuai.asia/live9/iptv.php?h=b18bec5a2fd9c8b2b363345e94ce26aea16865775326a413a741b8e4d8edff51&t=H87E8N2I&u=aHR0cDovLzIxOS4xNTAuMjE3LjQ3OjY2MTAvUExUVjEvNDAvaW5kZXgubTN1OD9pY3BpZD1keHJtMQ0%3D
