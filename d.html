@@ -1,52 +1,14 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DLT 数据中心 - Wodane</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://unpkg.com/lucide@latest"></script>
-    <style>body { font-family: -apple-system, sans-serif; }</style>
-</head>
-<body class="bg-slate-50 text-slate-800 min-h-screen flex flex-col items-center justify-center p-4">
-
-    <div class="w-full max-w-md bg-white rounded-[2.5rem] shadow-2xl p-10 border border-slate-100 text-center">
-        <div class="w-20 h-20 bg-emerald-50 text-emerald-600 rounded-3xl flex items-center justify-center mx-auto mb-6">
-            <i data-lucide="database" class="w-10 h-10"></i>
-        </div>
-        
-        <h1 class="text-3xl font-black tracking-tighter mb-2">DLT 数据中心</h1>
-        <p class="text-slate-400 text-xs font-bold uppercase tracking-widest mb-8">独立子系统</p>
-
-        <div id="user-info" class="bg-slate-50 p-4 rounded-2xl text-left mb-8 border border-slate-100 text-sm font-mono text-slate-500">
-            <!-- JS 填充 -->
-        </div>
-
-        <button onclick="handleLogout()" class="w-full py-3 bg-slate-800 hover:bg-slate-900 text-white rounded-xl font-bold transition shadow-lg shadow-slate-200">
-            退出登录
-        </button>
-    </div>
-
-    <script>
-        lucide.createIcons();
-        const SESSION_KEY = "gallery_secure_v6_final";
-        
-        try {
-            const session = JSON.parse(localStorage.getItem(SESSION_KEY));
-            if (!session || Date.now() - session.time > 7200000) throw new Error();
-            
-            document.getElementById('user-info').innerHTML = `
-                <p>当前用户: <span class="font-bold text-slate-700">${session.userProfile.username}</span></p>
-                <p class="text-emerald-600 mt-1">系统就绪</p>
-            `;
-        } catch (e) {
-            window.location.href = "/";
-        }
-
-        function handleLogout() {
-            localStorage.removeItem(SESSION_KEY);
-            window.location.href = "/";
-        }
-    </script>
-</body>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>my-gallery</title>
+    <script type="module" crossorigin src="/assets/main-8eZz_FJ0.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/main-CfQDauoZ.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
 </html>
