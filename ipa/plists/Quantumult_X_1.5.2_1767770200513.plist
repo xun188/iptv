@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string>https://conolo-my.sharepoint.com/personal/2_conolo_cn/_layouts/52/download.aspx?share=IQBJ1tmI1FqNQrZe7dWdi1teAWwDOQGSzR6m1aZOujBJ-Hg</string>
+        </dict>
+        <dict>
+          <key>kind</key>
+          <string>display-image</string>
+          <key>needs-shine</key>
+          <true/>
+          <key>url</key>
+          <string>https://raw.githubusercontent.com/xun188/iptv/main/ipa/icons/Quantumult_X_1.5.2_1767770200513.png</string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>com.crossutility.quantumult-x</string>
+        <key>bundle-version</key>
+        <string>1.5.2</string>
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <string>Quantumult X</string>
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>
